@@ -22,7 +22,7 @@ body{
 box-sizing: border-box;
 }
 
-.colum-2{
+.column-2{
     float: left;
     width: 45%;
     padding: 70px;
@@ -45,7 +45,7 @@ box-sizing: border-box;
     font-size: 35px;
 }
 
-.colum-4{
+.column-4{
     float: left;
     width: 21%;
     padding: 10px;
@@ -129,7 +129,7 @@ box-sizing: border-box;
     font-size: 35px;
 }
 
-.colum-1 {
+.column-1 {
     width: 90%;
     height: auto;
     padding-top: 70px;
@@ -144,7 +144,7 @@ box-sizing: border-box;
     border-spacing: 24px;
 }
 
-.colum-2a{
+.column-2a{
     float: left;
     width: 45%;
     padding: 40px 70px 60px;
@@ -153,7 +153,7 @@ box-sizing: border-box;
     background-color: white;
 }
 
-.colum-quote{
+.column-quote{
     width: 90%;
     height: 475px;
     padding: 40px 70px 100px;
